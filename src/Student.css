@@ -1,0 +1,27 @@
+/* src/Student.css */
+
+/* Style for the individual student container */
+.student-container {
+  border: 1px solid #440be2;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+/* Style for the student name */
+.student-name {
+  font-size: 1.5rem;
+  color: #0e0744;
+}
+
+/* Style for the student details (roll number and grade) */
+.student-details {
+  color: #1261eb;
+}
+
+/* Style for the main app container */
+.app-container {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  color: rgb(2, 38, 26);
+}
